@@ -1,4 +1,21 @@
 {
   "projectName": "DummyRepo",
-  "projectOwner": "PriyankDev0308"
+  "projectOwner": "PriyankDev0308",
+  "files": [
+    "README.md"
+  ],
+  "commitType": "docs",
+  "commitConvention": "angular",
+  "contributorsPerLine": 7,
+  "contributors": [
+    {
+      "login": "Genesis3800",
+      "name": "Priyank Gupta",
+      "avatar_url": "https://avatars.githubusercontent.com/u/56264430?v=4",
+      "profile": "https://13thcodearmy.hashnode.dev/",
+      "contributions": [
+        "doc"
+      ]
+    }
+  ]
 }
