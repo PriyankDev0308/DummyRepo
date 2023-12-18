@@ -162,6 +162,13 @@ We are grateful to these amazing folks for their contributions to Avail's docs :
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
 <!-- markdownlint-disable -->
+<table>
+  <tbody>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="https://13thcodearmy.hashnode.dev/"><img src="https://avatars.githubusercontent.com/u/56264430?v=4?s=100" width="100px;" alt="Priyank Gupta"/><br /><sub><b>Priyank Gupta</b></sub></a><br /><a href="#doc-Genesis3800" title="Documentation">📖</a></td>
+    </tr>
+  </tbody>
+</table>
 
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
