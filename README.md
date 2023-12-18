@@ -1,5 +1,5 @@
 <p align="center">
-<img align="center" src="[/static/img/avail-logo.png](https://github.com/PriyankDev0308/DummyRepo/assets/144904558/b0edc6d5-1b17-4acb-8d94-e9a2997ea26c)" width="250">
+<img align="center" src="https://github.com/PriyankDev0308/DummyRepo/assets/144904558/b0edc6d5-1b17-4acb-8d94-e9a2997ea26c" width="250">
 </p>
 
 <div align="Center">
