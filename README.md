@@ -8,6 +8,8 @@
 
 </div>
 
+[![All Contributors](https://img.shields.io/github/all-contributors/PriyankDev0308/DummyRepo?color=ee8449&style=flat-square)](#contributors)
+
 <p align="left">
   Welcome to the Avail Project Developer Documentation, your go-to resource for all things related to data availability and modular blockchain development. Designed with a focus on community collaboration, this repository aims to provide the most accurate, comprehensive, and up-to-date information for anyone interested in learning about, contributing to, or maintaining projects within the Avail ecosystem.
 </p>
@@ -151,3 +153,17 @@ This section provides an overview of the various files and folders in the Avail 
 | `src/`                 | Contains source files for the project.                                     |
 | `static/`              | Contains static assets like images, CSS, and fonts.                        |
 | `yarn.lock`            | Yarn lock file to keep track of all package versions.                      |
+
+
+## Contributors
+
+We are grateful to these amazing folks for their contributions to Avail's docs :) [emoji key](t)
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
