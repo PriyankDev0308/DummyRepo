@@ -5,8 +5,9 @@
 <div align="Center">
 <h1>Avail Project Developer Documentation</h1>
 <h3>The Essential Base Layer for Modern Blockchains</h3>
-[![All Contributors](https://img.shields.io/github/all-contributors/PriyankDev0308/DummyRepo?color=ee8449&style=flat-square)](#contributors)
 </div>
+
+[![All Contributors](https://img.shields.io/github/all-contributors/PriyankDev0308/DummyRepo?color=ee8449&style=flat-square)](#contributors)
 
 <p align="left">
   Welcome to the Avail Project Developer Documentation, your go-to resource for all things related to data availability and modular blockchain development. Designed with a focus on community collaboration, this repository aims to provide the most accurate, comprehensive, and up-to-date information for anyone interested in learning about, contributing to, or maintaining projects within the Avail ecosystem.
